@@ -1,0 +1,4 @@
+num,4
+cap,5
+refill,2
+fun,3,3,0,0,

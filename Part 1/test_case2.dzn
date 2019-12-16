@@ -1,0 +1,14 @@
+% test 2
+
+num = 4;
+cap = 5;
+refill = 2;
+fun = [4,-1,-2,3];
+K = 25; 
+
+
+% Satisfiable 
+% Max total = 29
+% Run time = 68 msec
+% comparing to test case 1, negative value of fun can lead to a minimize of time to play when
+% solve maximum. 

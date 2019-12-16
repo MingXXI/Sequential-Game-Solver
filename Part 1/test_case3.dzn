@@ -1,0 +1,14 @@
+% test 3
+
+num = 4;
+cap = 5;
+refill = 3;
+fun = [4,1,2,3];
+K = 25; 
+
+
+% Satisfiable 
+% Max total = 42
+% Run time = 70 msec
+% comparing to test case 1, increase of refill amount can lead to an increase of maximum total fun can get.
+% Which is trivial that the more a machine can refill, the more games a player can play.

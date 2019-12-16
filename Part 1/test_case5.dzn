@@ -1,0 +1,14 @@
+% test 5
+
+num = 6;
+cap = 3;
+refill = 2;
+fun = [1,-2,-1,0,9,3];
+K = 35;
+
+
+% Satisfiable 
+% Max total = 40
+% Run time = 65 msec
+% comparing to test case 4, with same elements in set of values of fun, different
+% order of game setting can lead to different result (solve maximum)

@@ -1,0 +1,13 @@
+% test 7
+
+num = 4;
+cap = 5;
+refill = 2;
+fun = [-4,1,-2,-3];
+K = 25; 
+
+% Un-Satisfiable
+% Max total = -4
+% Run time = 61 msec
+% Comparing to the test case 1, if there are too many negative value of fun in the fun set,
+% the goal is hard to reach. 

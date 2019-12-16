@@ -1,0 +1,7 @@
+% test2
+
+
+num = 2;
+cap = 5;
+refill = 2;
+fun = [0, 4];

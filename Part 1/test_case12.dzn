@@ -1,0 +1,12 @@
+% test 12
+
+num = 10;
+cap = 8;
+refill = 6;
+fun = [-2,1,2,-3,0,2,-4,5,1,-2];
+K = 79;
+
+
+% Un-Satisfiable
+% Max total = 73
+% Run time = 2m 37s; 2m 39s
